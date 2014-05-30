@@ -1,5 +1,5 @@
 /**
- * this is a Hellowrod.cpp file
+ * This is a Helloworld.cpp file
  * @author 丁巨儒 <dingjuru@gmail.con>
  * @time 2014-5-30
  */
@@ -7,7 +7,7 @@
 
 int main()
 {
-	std::cout << "Hello Word" << std:: endl;
+	std::cout << "Hello World" << std:: endl;
 
 	return 0;
 }
