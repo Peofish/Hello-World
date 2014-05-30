@@ -1,4 +1,4 @@
-# This is a HelloWord.s file 
+# This is a HelloWorld.s file 
 # @author 丁巨儒 <dingjuru@gmail.com>
 # @time 2014-5-30
 .data                    # 数据段声明
