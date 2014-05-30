@@ -5,7 +5,7 @@
  * @Time 2014-5-30
  */
 function HelloWord() {
-	echo "Hello Word\n";
+	echo "Hello World\n";
 }
 
 HelloWord();
